@@ -1,13 +1,3 @@
-/*
-	Put your custom CSS here.
-
-	You may find these CSS3 properties useful:;
-		transition
-		-webkit-transform
-		-webkit-transform-style
-		-webkit-backface-visibility
-*/
-
 #portfolio {
 	perspective: 1000;
 }
